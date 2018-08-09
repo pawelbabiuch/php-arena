@@ -7,6 +7,8 @@ Aplikacja nie posiada obiecującej grafiki (która nie była wymagana). Główny
 - komunikacja z bazą danych (odczyt, zapis, edycja)
 - podział kont użytkowników (np. gracz, administrator)
 
+#
+
 > Użyte technologie:
 - [Bazy Danych MySQL](https://www.mysql.com/)
 - [Lokalny server apache](https://www.apachefriends.org/pl/index.html)
