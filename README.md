@@ -8,9 +8,9 @@ Aplikacja nie posiada obiecującej grafiki (która nie była wymagana). **Głów
 - podział kont użytkowników (np. gracz, administrator)
 - Wygenerowanie pdf'a
 
-## Użyte technologie:
+## Użyte technologie
 - [Bazy Danych MySQL](https://www.mysql.com/)
 - [Lokalny server apache](https://www.apachefriends.org/pl/index.html)
 
-## Dokumentacja:
+## Dokumentacja
 - [Dokumentacja do gry](https://github.com/pawelbabiuch/php-arena/blob/master/Dokumentacja/Dokumentacja.pdf)
